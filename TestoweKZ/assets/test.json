@@ -1,0 +1,18 @@
+{"main": {
+   "articles": {
+     "article": [
+       {"title": "Zwiększamy produktywność",
+        "image": "http://www.freeimages.com/assets/182992/1829913941/smart-phone-icon-1377498-m.jpg",
+        "content": "Niedawno znajomy zapytał mnie jak sobie poradziłem z napływem wiadomości oraz dlaczego moja skrzynka są takie czyste i białe."
+        },
+       {"title": "Noc muzeum 2014",
+        "image": "http://www.freeimages.com/assets/182986/1829857374/robot-with-a-heart-1397091-m.jpg",
+        "content": "Noc Muzeów 2014 za nami. Mimo niesprzyjającej pogody wrocławianie znów chętnie uczestniczyli w zwiedzaniu wystaw i ekspozycji."
+        },
+       {"title": "Apple i Google ogłosili zawieszenie broni",
+        "image": "http://www.freeimages.com/assets/183378/1833771994/apple-1443622-m.jpg",
+        "content": "Firmy Apple i Google jeszcze wczoraj walczyły w ponad 20 sprawach przed sądami w Stanach Zdednoczonych i Niemczech. Dziś w nocy naszego czasu ogłosiły zawieszenie broni na tym froncie. Do Sądu Apelacyjnego w Waszyngtonie wczoraj wpłynęły wnioski o oddalenie spraw."
+        }
+     ]
+   }
+ }}
